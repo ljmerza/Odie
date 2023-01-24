@@ -4,8 +4,7 @@
   "description": "",
   "scripts": {
     "build": "tsc",
-    "express": "node build/express_test.js",
-    "typescript": "node build/typescript_test.js"
+    "start": "node build/express_test.js"
 
   },
   "author": "",
